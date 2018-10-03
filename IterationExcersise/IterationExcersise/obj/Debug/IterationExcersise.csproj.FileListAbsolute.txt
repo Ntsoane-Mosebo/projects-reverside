@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\IterationExcersise\IterationExcersise\bin\Debug\IterationExcersise.exe.config
+C:\Users\User\Desktop\IterationExcersise\IterationExcersise\bin\Debug\IterationExcersise.exe
+C:\Users\User\Desktop\IterationExcersise\IterationExcersise\bin\Debug\IterationExcersise.pdb
+C:\Users\User\Desktop\IterationExcersise\IterationExcersise\obj\Debug\IterationExcersise.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\IterationExcersise\IterationExcersise\obj\Debug\IterationExcersise.exe
+C:\Users\User\Desktop\IterationExcersise\IterationExcersise\obj\Debug\IterationExcersise.pdb
